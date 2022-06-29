@@ -1,0 +1,16 @@
+@use '../scss/custom';
+ @use 'components/animations.scss';
+ @use 'components/buttons.scss';
+ @use 'components/mixing.scss';
+ @use 'components/typography.scss';
+
+ @use 'sections/companies.scss';
+ @use 'sections/connect.scss';
+ @use 'sections/faq.scss';
+ @use 'sections/footer.scss';
+ @use 'sections/intro.scss';
+ @use 'sections/navigation.scss';
+ @use 'sections/portfolio.scss';
+ @use 'sections/services.scss';
+ @use 'sections/testimonials.scss';
+
